@@ -3,7 +3,7 @@ html, body{
 }
 .cards{
     height: 100%;
-    background: ;
+    background: pink;
     display: flex;
     align-items: center;
     justify-content: center;

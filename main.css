@@ -1,10 +1,11 @@
 .card{
     max-width: 400px;
     height: 400px;
+    margin: 0 auto;
+     margin-top: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin-top: 100px;
     text-align: center;
 }

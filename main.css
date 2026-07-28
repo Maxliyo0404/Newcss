@@ -1,18 +1,22 @@
+html, body{
+    height: 100%;
+}
 .cards{
     background: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
 }
 .card{
     width: 400px;
     height: 400px;
     margin: 0 auto;
      margin-top: 100px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
     text-align: center;
     background: black;
     color: white;
+    border: 10px;
 }
 .rasm{
     width: 100%;
